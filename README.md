@@ -1,2 +1,2 @@
-# PhpTestCalculator
-Simple PHP tests using PHPUnit
+# PHPUnit Examples
+Simple test examples using PHPUnit and a Calculator class.
